@@ -26,4 +26,4 @@ job1
 summary- 2
 experience - 8
 education - 3
-skills - 3
+skills - 7
