@@ -1,0 +1,15 @@
+{
+  "title": "Consultant, Forensic & Integrity Services",
+  "location": "Lisbon, Portugal",
+  "department": "Forensic",
+  "experience_level": "Manager",
+  "about_the_role": "EY Portugal is seeking a Consultant to join our Forensic & Integrity Services team. The successful candidate will assist clients in managing investigations and compliance matters.",
+  "key_responsibilities": "Conduct forensic investigations and data analysis. Assist clients in developing compliance programs. Prepare reports and presentations for stakeholders. Collaborate with cross-functional teams to deliver integrated solutions. Stay current with industry trends and regulatory changes.",
+  "requirements": "7+ years of experience in forensic accounting or related fields. Strong analytical and investigative skills. Excellent communication and interpersonal skills. Relevant certifications (e.g., CFE, CPA) preferred. Fluency in English and Portuguese required.",
+    "weights": {
+    "summary": 2,
+    "experience": 8,
+    "education": 3,
+    "skills": 7
+  }
+}

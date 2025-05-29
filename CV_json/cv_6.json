@@ -1,0 +1,8 @@
+{
+    "name": "Jo\u00e3o Tavares",
+    "title": "Data Analytics Consultant",
+    "summary": "Data Analytics Consultant with experience in transforming raw data into business insights. Skilled in\ndeveloping automated dashboards, building data models, and leveraging statistical techniques to drive\nstrategic decisions. Proven track record of delivering impactful analytics solutions across financial services and\nconsumer markets.",
+    "education": "Instituto Superior T\u00e9cnico \u2013 Lisbon\nMSc in Data Science and Engineering\n2019 \u2013 2021\nUniversidade do Minho \u2013 Braga\nBSc in Information Systems\n2016 \u2013 2019",
+    "skills": "Python, SQL, Power BI\nData storytelling and dashboard design\nMachine learning (Scikit-learn)\nFluent in English and Portuguese",
+    "experience": "EY Portugal \u2013 Lisbon\nData Analytics Consultant\nJune 2022 \u2013 Present\nDesigned and deployed Power BI dashboards for finance and risk departments.\nAutomated recurring reporting tasks using Python and SQL, saving over 50 hours/month.\nCollaborated with audit teams to integrate data-driven approaches into client deliverables.\nNOS \u2013 Lisbon\nJunior Data Analyst\nJuly 2021 \u2013 May 2022\nBuilt customer churn models and performed exploratory data analysis for the marketing team.\nConducted A/B tests and visualized results using Tableau.\nMaintained and optimized MySQL databases for data integrity and performance."
+}

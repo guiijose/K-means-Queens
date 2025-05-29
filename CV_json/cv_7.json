@@ -1,0 +1,8 @@
+{
+    "name": "Maria Ferreira",
+    "title": "Senior Data Analyst",
+    "summary": "Senior Data Analyst with over 6 years of experience in advanced analytics, data visualization, and business\nintelligence. Proven ability to translate complex data into actionable insights for decision-makers. Passionate\nabout working in high-performing consulting teams, with strong familiarity with financial and regulatory\nreporting environments.",
+    "education": "Universidade Nova de Lisboa\nMSc in Data Science and Business Analytics\n2015 \u2013 2017\nUniversidade de Lisboa\nBSc in Statistics and Information Management\n2012 \u2013 2015",
+    "skills": "Python, SQL, R, Power BI\nMachine Learning (Scikit-learn, XGBoost)\nETL and data modeling\nFinancial reporting knowledge\nFluent in Portuguese and English",
+    "experience": "EY Portugal \u2013 Lisbon\nSenior Data Analyst\nMarch 2020 \u2013 Present\nLed the implementation of dashboard reporting tools for banking sector clients using Power BI and\nPython.\nAutomated audit data pipelines, reducing analysis time by 35%.\nWorked cross-functionally with tax, audit, and advisory teams to deliver analytics-driven insights.\nEDP \u2013 Lisbon\nData Analyst\nSeptember 2017 \u2013 February 2020\nBuilt forecasting models for energy consumption trends.\nDesigned SQL-based data pipelines to consolidate metrics from multiple data sources."
+}

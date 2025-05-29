@@ -1,0 +1,8 @@
+{
+    "name": "Manuel Dias",
+    "title": "Artificial Intelligence Consultant",
+    "summary": "AI specialist with 3 years of experience in developing machine learning solutions for business applications.\nExpertise in natural language processing and predictive analytics. Passionate about helping organizations\nleverage AI technologies to drive innovation and competitive advantage.",
+    "education": "Instituto Superior T\u00e9cnico \u2013 Lisbon\nMSc in Computer Science - Machine Learning\n2019 \u2013 2021\nUniversity of Coimbra \u2013 Coimbra\nBSc in Computer Science\n2016 \u2013 2019",
+    "skills": "Machine learning and deep learning\nPython, TensorFlow, PyTorch\nNatural language processing\nBig data technologies (Spark, Hadoop)\nPortuguese (native), English (fluent)\nStrong problem-solving abilities",
+    "experience": "Microsoft Portugal \u2013 Lisbon\nAI Solutions Engineer\nJanuary 2023 \u2013 Present\nDesigned and implemented AI solutions for enterprise clients across various industries.\nDeveloped machine learning models for customer segmentation and churn prediction.\nCreated NLP-based solutions for customer service automation and sentiment analysis.\nFeedzai \u2013 Coimbra\nMachine Learning Engineer\nMarch 2021 \u2013 December 2022\nBuilt fraud detection models using supervised and unsupervised learning techniques.\nCollaborated with data scientists to optimize model performance and accuracy.\nImplemented model deployment pipelines and monitoring systems."
+}

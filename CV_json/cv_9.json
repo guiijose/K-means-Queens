@@ -1,0 +1,8 @@
+{
+    "name": "Sofia Carvalho",
+    "title": "Cybersecurity Analyst",
+    "summary": "Cybersecurity professional with experience in threat detection, GRC frameworks, and secure architecture\nassessments. Passionate about improving the security posture of large-scale enterprise systems and helping\nclients meet regulatory obligations.",
+    "education": "Universidade do Minho \u2013 Braga\nMSc in Information Security\n2019 \u2013 2021\nUniversidade do Porto\nBSc in Computer Science\n2016 \u2013 2019",
+    "skills": "NIST, ISO 27001, GDPR\nKali Linux, Wireshark, Splunk\nPython, Bash scripting\nFluent in Portuguese and English",
+    "experience": "EY Portugal \u2013 Porto\nCybersecurity Analyst\nFebruary 2022 \u2013 Present\nConducted risk assessments and vulnerability scans for financial institutions.\nSupported the deployment of SIEM and SOC tools.\nAdvised clients on ISO 27001 and GDPR compliance.\nNOS \u2013 Lisbon\nSecurity Analyst Intern\nJuly 2021 \u2013 January 2022\nAssisted in monitoring network traffic for anomalies.\nDrafted internal reports and user awareness materials."
+}

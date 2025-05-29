@@ -1,0 +1,8 @@
+{
+    "name": "Mariana Costa",
+    "title": "Data Scientist",
+    "summary": "Data Scientist with expertise in predictive modeling and machine learning. Experienced in delivering insights\nfrom complex datasets and developing data-driven solutions for business problems.",
+    "education": "Instituto Superior T\u00e9cnico \u2013 Lisbon\nMSc in Data Science\n2017 \u2013 2019\nUniversity of Minho \u2013 Braga\nBSc in Applied Mathematics\n2014 \u2013 2017",
+    "skills": "Python, R, SQL\nMachine Learning, Statistical Analysis\nPowerBI, Tableau\nFluent in Portuguese and English",
+    "experience": "Vodafone Portugal \u2013 Lisbon\nData Scientist\nMarch 2021 \u2013 Present\nBuilt predictive models for customer churn reduction.\nDeveloped dashboards to visualize KPIs for executive leadership.\nImplemented A/B testing frameworks for marketing campaigns.\nNOS \u2013 Lisbon\nBusiness Intelligence Analyst\nFebruary 2019 \u2013 February 2021\nCreated reports on customer behavior and market trends.\nOptimized SQL queries for data extraction and analysis."
+}
