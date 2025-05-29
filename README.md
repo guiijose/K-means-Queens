@@ -136,6 +136,7 @@ This challenge is your opportunity to **redefine how organizations attract and h
 
 Deliver a solution that’s not just smart – make it **transformational**.
 
+https://colab.research.google.com/github/EYAIChallenge/CV-Analyzer-Agent/blob/main/HackathonChallenge.ipynb
 ---
 
 ### 🏁 Brought to you by **EY AI Challenge**
